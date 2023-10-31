@@ -1,0 +1,24 @@
+{
+    "tag_env": {
+      "type": "String",
+      "metadata": {
+        "displayName": "env",
+        "description": "example: dev"
+      }
+    },
+    "tag_demo": {
+      "type": "String",
+      "metadata": {
+        "displayName": "demo",
+        "description": "example: demo"
+      }
+    },
+    "tag_tempo": {
+      "type": "String",
+      "metadata": {
+        "displayName": "tempo",
+        "description": "example: tempo"
+      }
+    }
+}
+  
